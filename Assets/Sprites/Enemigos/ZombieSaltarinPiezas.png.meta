@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: bed83d4c5d0937c43bf543496bc4727c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hemisferio1
+    21300002: Ojo2
+    21300004: Ojo1
+    21300006: Brazo1
+    21300008: Hemisferio2
+    21300010: Boca
+    21300012: Nariz
+    21300014: Oreja
+    21300016: Brazo2
+    21300018: Cabeza
+    21300020: Tronco
+    21300022: Saltador
+    21300024: Muelle
+    21300026: Pierna2
+    21300028: Pierna1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hemisferio1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 422
+        width: 157
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 413
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 409
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 441
+        width: 160
+        height: 65
+      alignment: 9
+      pivot: {x: .869880319, y: .678524077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hemisferio2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 131
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boca
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 369
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nariz
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 374
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Oreja
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 361
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: .235124007, y: .401241213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 379
+        width: 174
+        height: 56
+      alignment: 9
+      pivot: {x: .87277627, y: .688755035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 229
+        width: 214
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tronco
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 231
+        width: 111
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saltador
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 225
+        height: 222
+      alignment: 9
+      pivot: {x: .70887363, y: .0739940852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muelle
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 60
+        height: 142
+      alignment: 9
+      pivot: {x: .364618927, y: .888164699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 125
+        width: 58
+        height: 89
+      alignment: 9
+      pivot: {x: .417161077, y: .802316189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 117
+        width: 61
+        height: 103
+      alignment: 9
+      pivot: {x: .53938216, y: .817201614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: enemigos
+  userData: 

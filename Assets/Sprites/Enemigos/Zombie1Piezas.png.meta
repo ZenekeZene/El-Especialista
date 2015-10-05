@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 5aba842d8791b714dbe1a314cbd6eb2d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ojo2
+    21300002: Ojo1
+    21300004: Nariz
+    21300006: Cabeza
+    21300008: Oreja1
+    21300010: Brazo2
+    21300012: Brazo1
+    21300014: Pieza2
+    21300016: Pieza1
+    21300018: Tronco
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ojo2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 435
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 436
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nariz
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 410
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 231
+        width: 203
+        height: 163
+      alignment: 9
+      pivot: {x: .480152965, y: .149010971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Oreja1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 261
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: .226030886, y: .483555377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 171
+        height: 58
+      alignment: 9
+      pivot: {x: .905252039, y: .66671598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 73
+        width: 170
+        height: 59
+      alignment: 9
+      pivot: {x: .869716167, y: .650232613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pieza2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 51
+        height: 72
+      alignment: 9
+      pivot: {x: .547399759, y: .679064989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pieza1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 8
+        width: 53
+        height: 73
+      alignment: 9
+      pivot: {x: .515204072, y: .65453583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tronco
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 97
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 11, y: 4, z: 0, w: 0}
+  spritePackingTag: enemigos
+  userData: 

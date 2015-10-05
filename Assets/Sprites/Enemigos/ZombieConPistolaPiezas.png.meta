@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 7118df31556b9ee4ead2fa7a4069e98a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cabeza
+    21300002: Ojo2
+    21300004: Ojo1
+    21300006: Nariz
+    21300008: Bigote
+    21300010: Pistola
+    21300012: Oreja
+    21300014: Pierna2
+    21300016: Pierna1
+    21300018: Brazo2
+    21300020: Tronco
+    21300022: Antebrazo1
+    21300024: Brazo1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 356
+        width: 204
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 458
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 452
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nariz
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 427
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigote
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 404
+        width: 80
+        height: 40
+      alignment: 9
+      pivot: {x: .464013278, y: .759109497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pistola
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 282
+        width: 136
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Oreja
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 349
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: .303705394, y: .41965574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 263
+        width: 54
+        height: 67
+      alignment: 9
+      pivot: {x: .57464093, y: .800789893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 263
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: .446685791, y: .811890483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 203
+        width: 46
+        height: 129
+      alignment: 9
+      pivot: {x: .487483144, y: .830302894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tronco
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 206
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Antebrazo1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 133
+        width: 93
+        height: 55
+      alignment: 9
+      pivot: {x: .716698408, y: .646566749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 61
+        width: 131
+        height: 57
+      alignment: 9
+      pivot: {x: .842841923, y: .378779233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: enemigos
+  userData: 

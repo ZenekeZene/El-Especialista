@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: b09fb04dc679b5b48b71c8af000ab770
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tronco
+    21300002: Ojo2
+    21300004: Ojo1
+    21300006: Cabeza
+    21300008: Nariz
+    21300010: CascoPuesto
+    21300012: Pierna2
+    21300014: Brazo1
+    21300016: Brazo2
+    21300018: CascoFondo
+    21300020: Pierna1
+    21300022: CascoSuelto
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tronco
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 372
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 441
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ojo1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 438
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 342
+        width: 203
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nariz
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 417
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CascoPuesto
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 222
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 266
+        width: 51
+        height: 74
+      alignment: 9
+      pivot: {x: .515799701, y: .728670716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 271
+        width: 171
+        height: 59
+      alignment: 9
+      pivot: {x: .85812968, y: .650232375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 202
+        width: 171
+        height: 57
+      alignment: 9
+      pivot: {x: .85812968, y: .655503631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CascoFondo
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 164
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 16
+        width: 53
+        height: 73
+      alignment: 9
+      pivot: {x: .484796196, y: .76491797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CascoSuelto
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 222
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: enemigos
+  userData: 
